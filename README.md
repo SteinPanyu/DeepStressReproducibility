@@ -34,7 +34,6 @@ This project leverages the DeepStress dataset to develop and optimize models for
 ├── Model Evaluation & Deeper Analysis.ipynb # Evaluation and deeper analysis                        
 ├── Model Training.ipynb                     # Model training procedures
 ├── Preprocessing.ipynb                      # Data preprocessing steps
-├── Visualization_Overfitting.ipynb          # Overfitting visualization and mitigation
 │                                
 └── environment.yaml                         # Conda environment configuration
 ```
@@ -91,10 +90,6 @@ The project is organized into Jupyter notebooks, each representing a stage of th
    - Purpose: Evaluate the model's performance with detailed analysis.
    - Includes: Metrics, interpretability, and areas for improvement.
 
-7. **Overfitting Visualization**
-   - Notebook: `Visualization_Overfitting.ipynb`
-   - Purpose: Visualize and mitigate overfitting.
-   - Includes: Regularization and model complexity adjustments.
 
 ## License
 
